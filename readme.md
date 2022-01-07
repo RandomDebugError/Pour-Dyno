@@ -12,5 +12,8 @@ Results should be displayed
 Use the Model that has already been included by opening test_script.py and running it
 Results should be displayed.
 
+### For full dataset: 
+https://www.dropbox.com/s/9abk9i01hb2eyas/Robot_Trials_DL.npy?dl=0
+
 
 
